@@ -24,7 +24,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.m1nero.BeTheHero"
+    },
+    "android": {
+      "package": "com.m1nero.BeTheHero"
     }
   }
 }
